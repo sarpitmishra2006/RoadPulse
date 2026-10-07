@@ -1,0 +1,7 @@
+pothole-env/
+detections/
+*.onnx
+*.pt
+__pycache__/
+*.pyc
+.DS_Store
